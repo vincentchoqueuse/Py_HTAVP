@@ -7,3 +7,10 @@ Ce repo contient quelques exemples de scripts Python pour extraire les données 
 * `extract_data.py`: permet d'extraire la liste des députés et leur affiliation politique et de lister la liste de leur portefeuille d'actions. Cette liste est sauvegardée sous la forme d'un fichier json nommé `full_data.json` **sans les noms des députés**
 * `analyse_group_tot.py`: permet de déterminer le portefeuille d'actions moyen par groupe politique (affichage sauvegardé sous la forme d'un fichier jpg)
 * `analyse_firm_tot.py`: permet de déterminer le portefeuille d'actions moyen pour l'entreprise X par groupe politique (affichage sauvegardé sous la forme d'un fichier jpg)
+
+## Statistiques
+
+* Nombre de députés en France: 577 
+* Nombre de députés extraits: 478 (82.84%)
+    * avec déclaration : 448 (93.72%)
+    * sans déclaration : 30 (6.28%)
